@@ -4,9 +4,9 @@
 
 https://github.com/coding-to-music/nyc-collision-data-kibana-filebeat-logstash-elastic
 
-From / By Florent Ramière https://github.com/framiere/monitoring-demo
+From / By https://github.com/elastic/examples
 
-https://github.com/framiere/monitoring-demo
+https://github.com/elastic/examples/tree/master/Exploring%20Public%20Datasets/nyc_traffic_accidents
 
 ## Environment variables:
 
